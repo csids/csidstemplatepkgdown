@@ -5,21 +5,15 @@ template:
     bg: "#f2f2f2"
     fg: "#333333"
     primary: "#2c3e50"
-    dropdown-link-hover-bg: "#e74c3c"
-    dropdown-link-hover-color: "white"
-    dropdown-link-active-color: "white"
-    headings-color: "#ffffff"
-    navbar-brand-font-size: "2rem"
-    navbar-light-color: "#1a2a3a"
-    navbar-light-brand-color: "#fff"
-    navbar-light-brand-hover-color: "#fff"
-    text-muted: "#d4d4d4"
-    navbar-light-hover-color: "#fff"
-    gray-300: "#f2f2f2"
-    border-radius: 0.5rem
-    btn-border-radius: 0.5rem
-    base_font: {google: "Arial"}
-    heading_font: {google: "Arial"}
+    navbar-light-bg: "#2c3e50"
+    navbar-light-color: "white"
+    navbar-light-hover-color: "white"
+    navbar-light-brand-color: "white"
+    link-hover-color: "#e74c3c"
+    border-radius: 0.0rem
+    btn-border-radius: 0.0rem
+    base_font: "Arial"
+    heading_font: "Arial"
 
 authors:
   footer:
