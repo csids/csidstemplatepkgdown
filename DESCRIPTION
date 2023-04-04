@@ -5,7 +5,7 @@ Authors@R: c(
   person(c("Richard","Aubrey"), "White", email = "hello@rwhite.no", role = c("aut", "cre"),
     comment = c(ORCID = "0000-0002-6747-1726")
   ))
-Description: Pkgdown template used for NorSySS packages.
+Description: Pkgdown template used for CSIDS packages.
 URL: https://github.com/csids/csidstemplatepkgdown
 BugReports: https://github.com/csids/csidstemplatepkgdown/issues
 Depends:
