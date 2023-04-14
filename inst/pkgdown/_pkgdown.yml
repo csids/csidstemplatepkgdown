@@ -19,7 +19,7 @@ template:
 
 navbar:
   structure:
-    left:  [csverse, intro, reference, articles, tutorials, news]
+    left:  [intro, articles, tutorials, reference, news, csverse]
     right: [search, github]
   components:
    csverse:
