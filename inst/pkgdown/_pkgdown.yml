@@ -24,6 +24,7 @@ navbar:
   components:
    news:
     text: News
+    href: news/index.html
    csverse:
     text: csverse
     menu:
