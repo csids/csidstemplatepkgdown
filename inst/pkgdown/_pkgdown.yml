@@ -19,21 +19,42 @@ template:
 
 navbar:
   structure:
-    left:  [intro, reference, articles, tutorials, news, csverse]
+    left:  [csverse, intro, reference, articles, tutorials, news]
     right: [search, github]
   components:
    csverse:
     text: csverse
     menu:
-    - text: Category A
-    - text: Title A1
-      href: articles/a1.html
-    - text: Title A2
-      href: articles/a2.html
+    - text: Home
+      href: https://www.csids.no/packages.html
     - text: -------
-    - text: "Category B"
-    - text: Article B1
-      href: articles/b1.html
+    - text: "Packages"
+    - text: attrib
+      href: https://www.csids.no/attrib/
+    - text: csalert
+      href: https://www.csids.no/csalert/
+    - text: csdata
+      href: https://www.csids.no/csdata/
+    - text: csdb
+      href: https://www.csids.no/csdb/
+    - text: csmaps
+      href: https://www.csids.no/csmaps/
+    - text: csstyle
+      href: https://www.csids.no/csstyle/
+    - text: cstidy
+      href: https://www.csids.no/cstidy/
+    - text: cstime
+      href: https://www.csids.no/cstime/
+    - text: csutil
+      href: https://www.csids.no/csutil/
+    - text: nowcast
+      href: https://www.csids.no/nowcast/
+    - text: org
+      href: https://www.csids.no/org/
+    - text: plnr
+      href: https://www.csids.no/plnr/
+    - text: sc9
+      href: https://www.csids.no/sc9/
 
 authors:
   footer:
