@@ -17,6 +17,24 @@ template:
   includes:
     in_header: <script data-goatcounter="https://csidsno.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
+navbar:
+  structure:
+    left:  [intro, reference, articles, tutorials, news, csverse]
+    right: [search, github]
+  components:
+   csverse:
+    text: csverse
+    menu:
+    - text: Category A
+    - text: Title A1
+      href: articles/a1.html
+    - text: Title A2
+      href: articles/a2.html
+    - text: -------
+    - text: "Category B"
+    - text: Article B1
+      href: articles/b1.html
+
 authors:
   footer:
     roles: [cre, aut]
