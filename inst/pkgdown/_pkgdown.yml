@@ -31,7 +31,7 @@ navbar:
     - text: Home
       href: https://www.csids.no/packages.html
     - text: -------
-    - text: "R Packages"
+    - text: "Packages"
     - text: attrib
       href: https://www.csids.no/attrib/
     - text: csalert
