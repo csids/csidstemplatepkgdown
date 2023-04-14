@@ -22,6 +22,8 @@ navbar:
     left:  [intro, articles, tutorials, reference, news, csverse]
     right: [search, github]
   components:
+   news:
+    text: News
    csverse:
     text: csverse
     menu:
