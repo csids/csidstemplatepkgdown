@@ -19,19 +19,19 @@ template:
 
 navbar:
   structure:
-    left:  [intro, articles, tutorials, reference, news, csverse]
+    left:  [intro, articles, tutorials, reference, news, packages]
     right: [search, github]
   components:
    news:
     text: News
     href: news/index.html
-   csverse:
-    text: csverse
+   packages:
+    text: Packages
     menu:
     - text: Home
       href: https://www.csids.no/packages.html
     - text: -------
-    - text: "Packages"
+    - text: "csverse"
     - text: attrib
       href: https://www.csids.no/attrib/
     - text: covidnor
