@@ -34,6 +34,8 @@ navbar:
     - text: "Packages"
     - text: attrib
       href: https://www.csids.no/attrib/
+    - text: covidnor
+      href: https://www.csids.no/covidnor/
     - text: csalert
       href: https://www.csids.no/csalert/
     - text: csdata
