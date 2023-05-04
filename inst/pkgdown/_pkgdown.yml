@@ -12,8 +12,8 @@ template:
     link-hover-color: "#e74c3c"
     border-radius: 0.0rem
     btn-border-radius: 0.0rem
-    base_font: "Source Sans Pro"
-    heading_font: "Source Sans Pro"
+    base_font: {google: "Source Sans Pro"}
+    heading_font: {google: "Source Sans Pro"}
   includes:
     in_header: <script data-goatcounter="https://csidsno.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
