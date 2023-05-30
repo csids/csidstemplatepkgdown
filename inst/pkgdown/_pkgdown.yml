@@ -66,8 +66,8 @@ authors:
     roles: [cre, aut]
     text: "Crafted by"
     structure:
-      left: developed_by
-      right: "<img src='https://www.csids.no/resources/logo/logo_full_blue.svg' width=200>"
+      left: "<img src='https://www.csids.no/resources/logo/logo_full_blue.svg' width=200>"
+      right: developed_by
   sidebar:
     roles: [cre, aut, cph]
   before: "This package is proudly brought to you by:"
