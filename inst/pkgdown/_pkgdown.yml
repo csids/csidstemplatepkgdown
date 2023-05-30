@@ -1,4 +1,6 @@
 template:
+  includes:
+    before_title: "<a href='https://www.csids.no'><img src='https://www.csids.no/resources/logo/logo_full_blue.svg'> id='csidslogo'></a>"
   bootstrap: 5
   theme: "github-light"
   bslib:
