@@ -22,13 +22,13 @@ template:
 navbar:
   structure:
     left:  [intro, articles, tutorials, reference, news]
-    right: [home, packages, resources, github]
+    right: [home, packages, resources, github, search]
   components:
    news:
     text: News
     href: news/index.html
    home:
-     text: home
+     text: Home
      href: https://www.csids.no/
    resources:
      text: Resources
