@@ -63,7 +63,7 @@ navbar:
 
 authors:
   footer:
-    roles: [cre, aut]
+    roles: [cre, aut, cph]
     text: "Crafted by"
   sidebar:
     roles: [cre, aut, cph]
