@@ -21,8 +21,8 @@ template:
 
 navbar:
   structure:
-    left:  [intro, articles, tutorials, reference, news]
-    right: [home, packages, resources, github, search]
+    left:  [intro, articles, tutorials, reference, news, search]
+    right: [home, packages, resources, github]
   components:
    news:
     text: News
