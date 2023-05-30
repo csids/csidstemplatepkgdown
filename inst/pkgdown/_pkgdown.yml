@@ -66,12 +66,12 @@ authors:
     roles: [cre, aut]
     text: "Crafted by"
   sidebar:
-    roles: [cre, aut, ctb]
+    roles: [cre, aut, cph]
   before: "This package is proudly brought to you by:"
   after: "See the [changelog](news/index.html) for other contributors. :pray:"
   CSIDS:
     href: "https://www.csids.no"
-    html: "<img src='man/figures/csids.png' width=72>"
+    html: "<img src='https://www.csids.no/resources/logo/logo_full_blue.svg' width=200>"
   Richard Aubrey White:
     href: "https://www.rwhite.no"
   Chi Zhang:
