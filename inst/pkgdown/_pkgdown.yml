@@ -63,8 +63,11 @@ navbar:
 
 authors:
   footer:
-    roles: [cre, aut, cph]
+    roles: [cre, aut]
     text: "Crafted by"
+    structure:
+      left: developed_by
+      right: "<img src='https://www.csids.no/resources/logo/logo_full_blue.svg' width=200>"
   sidebar:
     roles: [cre, aut, cph]
   before: "This package is proudly brought to you by:"
