@@ -1,6 +1,4 @@
 template:
-  includes:
-    before_title: "<a href='https://www.csids.no'><img src='https://www.csids.no/resources/logo/logo_full_blue.svg'> id='csidslogo'></a>"
   bootstrap: 5
   theme: "github-light"
   bslib:
@@ -18,6 +16,8 @@ template:
     heading_font: {google: "Source Sans Pro"}
   includes:
     in_header: <script data-goatcounter="https://csidsno.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    before_title: <a href='https://www.csids.no'><img src='https://www.csids.no/resources/logo/logo_full_blue.svg'> id='csidslogo'></a>
+
 
 navbar:
   structure:
