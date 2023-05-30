@@ -18,6 +18,11 @@
   text-decoration: underline;
 }
 
+// hide the search bar
+form[role=search]{
+  display: none;
+}
+
 @media screen and (max-width: 480px) {
   .navbar .navbar-brand {
     padding-right: 0;
