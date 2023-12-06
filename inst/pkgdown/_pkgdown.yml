@@ -21,7 +21,7 @@ template:
 navbar:
   structure:
     left:  [intro, articles, tutorials, reference, news, search]
-    right: [home, packages, resources, github]
+    right: [home, packages, about, github]
   components:
    news:
     text: News
@@ -29,28 +29,36 @@ navbar:
    home:
      text: Home
      href: https://www.csids.no/
-   resources:
-     text: Resources
-     href: https://www.csids.no/resources.html
+   about:
+     text: About
+     menu:
+     - text: About CSIDS
+       href: https://www.csids.no/about_csids.html
+     - text: Get involved
+       href: https://www.csids.no/about_get_involved.html
+
    packages:
     text: Packages
     menu:
-    - text: Home
-      href: https://www.csids.no/packages.html
-    - text: -------
-    - text: "csverse"
-    - text: attrib
-      href: https://www.csids.no/attrib/
-    - text: covidnor
-      href: https://www.csids.no/covidnor/
+    - text: "Introduction"
+      href: https://www.csids.no/packages_intro.html
+    - text: "Public Health Surveillance"
     - text: csalert
       href: https://www.csids.no/csalert/
+    - text: attrib
+      href: https://www.csids.no/attrib/
+
+    - text: -------
+    - text: "Structured Data"
     - text: csdata
       href: https://www.csids.no/csdata/
-    - text: csdb
-      href: https://www.csids.no/csdb/
     - text: csmaps
       href: https://www.csids.no/csmaps/
+    - text: respiranor
+      href: https://www.csids.no/respiranor/
+
+    - text: -------
+    - text: "Helper Functions"
     - text: csstyle
       href: https://www.csids.no/csstyle/
     - text: cstidy
@@ -59,14 +67,18 @@ navbar:
       href: https://www.csids.no/cstime/
     - text: csutil
       href: https://www.csids.no/csutil/
-    - text: nowcast
-      href: https://www.csids.no/nowcast/
+    - text: csdb
+      href: https://www.csids.no/csdb/
+
+    - text: -------
+    - text: "Analysis Planning"
     - text: org
       href: https://www.csids.no/org/
     - text: plnr
       href: https://www.csids.no/plnr/
     - text: sc9
       href: https://www.csids.no/sc9/
+
 
 footer:
   structure:
