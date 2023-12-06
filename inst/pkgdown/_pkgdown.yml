@@ -41,7 +41,7 @@ navbar:
     text: Packages
     menu:
       - text: "Introduction"
-        href: packages_intro.qmd
+        href: https://www.csids.no/packages.html
       - text: -------
       - text: Analysis planning
       - text: org
