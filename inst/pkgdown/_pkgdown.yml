@@ -59,8 +59,8 @@ navbar:
 
     - text: -------
     - text: "Helper Functions"
-    - text: csstyle
-      href: https://www.csids.no/csstyle/
+    #- text: csstyle
+    #  href: https://www.csids.no/csstyle/
     - text: cstidy
       href: https://www.csids.no/cstidy/
     - text: cstime
