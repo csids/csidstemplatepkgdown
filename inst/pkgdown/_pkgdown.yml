@@ -48,8 +48,8 @@ navbar:
         href: https://www.csids.no/org/
       - text: plnr
         href: https://www.csids.no/plnr/
-      - text: sc9
-        href: https://www.csids.no/sc9/
+      - text: cs9
+        href: https://www.csids.no/cs9/
       - text: -------
       - text: Helper functions
       - text: csdb
