@@ -49,10 +49,19 @@ form[role=search]{
   -webkit-align-items: center;
 }
 
+.page-header {
+  margin-top: 3rem;
+}
+
+aside {
+  margin-top: 3.5rem;
+}
+
 // Home page
 
 .template-home {
   .page-header {
+    border-bottom: 0px solid;
     display: flex;
     gap: 1rem;
     align-items: center;
