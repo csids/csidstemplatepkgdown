@@ -1,10 +1,15 @@
 .navbar {
-  background: bottom/contain no-repeat,linear-gradient(94.45deg,#1a2a3a 1.55%,#1a2a3a 98.46%);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: bottom/contain no-repeat, linear-gradient(94.45deg, #1a2a3a 1.55%, #1a2a3a 98.46%);
   transition: all 0.3s ease;
-  box-shadow: 0 0 15px 5px rgba(0,0,0,.15);
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, .15);
   border: none;
   min-height: 40px;
+  z-index: 1000;
 }
+
 
 #csidslogo {
   height: 50px;
